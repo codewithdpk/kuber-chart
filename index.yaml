@@ -3,9 +3,9 @@ entries:
   nesthelm:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-05-31T15:10:39.11369+05:30"
+    created: "2024-05-31T15:22:16.468247+05:30"
     description: A Helm chart for deploying a Node.js application
-    digest: f704204a172ebab3e4ae494f30661edf6a7b2aec7ed7a07562683d1ee01d9133
+    digest: 3b55ba0e12014add359a9b42f1c849ad4aa5f957ac5285f2debb2f1093b22a4c
     maintainers:
     - email: suthardeepak01@outlook.com
       name: nesthelm
@@ -13,4 +13,4 @@ entries:
     urls:
     - https://codewithdpk.github.io/kuber-chart/nesthelm-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-31T15:10:39.112228+05:30"
+generated: "2024-05-31T15:22:16.464526+05:30"
