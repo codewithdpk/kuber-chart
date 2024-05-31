@@ -1,0 +1,21 @@
+replicaCount: 3
+
+image:
+  repository: suthardeepak/nesthelm
+  pullPolicy: IfNotPresent
+  tag: "latest"
+
+service:
+  type: LoadBalancer
+  port: 3000
+
+ingress:
+  enabled: false
+
+resources: {}
+
+nodeSelector: {}
+
+tolerations: []
+
+affinity: {}

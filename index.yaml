@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  nodejs-app:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-05-31T14:38:21.920377+05:30"
+    description: A Helm chart for deploying a Node.js application
+    digest: 8b79369514790ef88c3f6d4f65ed7c17af42890a800aa9884447acc6f6cf30d4
+    maintainers:
+    - email: suthardeepak01@outlook.com
+      name: nesthelm
+    name: nodejs-app
+    urls:
+    - https://codewithdpk.github.io/kuber-chart/nodejs-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-31T14:38:21.919045+05:30"
